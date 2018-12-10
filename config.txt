@@ -1,6 +1,6 @@
 token=NTE5MTI1MTQ1NzUxNzgxNDAy.Du_Y2w.earSoTUBf_UEvpPIiKes3MG-mJE
 owner=345152850751389697 
 prefix=M
-streaming=Matrks
+game=Mààààtrks , ♪.
 stayinchannel=false 
 songinstatus=true
