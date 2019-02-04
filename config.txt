@@ -1,6 +1,6 @@
 token=NTIxNjcxMzg5MzQ3MDUzNTY4.DvBhXA.7Mxygfc9rzIqBvkB92M27VT8u6c
-owner=429335711267815424 
-prefix=1
-game=Upside Down !
+owner=291994946410643457
+prefix=rrr
+game=
 stayinchannel=false 
 songinstatus=true
