@@ -1,6 +1,6 @@
 token=NTIxNjcxMzg5MzQ3MDUzNTY4.DvBhXA.7Mxygfc9rzIqBvkB92M27VT8u6c
 owner=291994946410643457
-prefix=rrr
+prefix=r
 game=
 stayinchannel=false 
 songinstatus=true
